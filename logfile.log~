@@ -1,0 +1,332 @@
+I, [2013-07-29T13:22:47.908088 #15178]  INFO -- : username is free
+I, [2013-07-29T13:24:41.119030 #15275]  INFO -- : username is free
+I, [2013-07-29T13:24:41.119219 #15275]  INFO -- initialize: Initializing...
+W, [2013-07-29T13:25:32.204788 #15373]  WARN -- : username is free
+I, [2013-07-29T14:06:31.088393 #17008]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:06:47.477490 #17008]  INFO -- : username is free
+I, [2013-07-29T14:06:47.894165 #17008]  INFO -- : password is entered
+I, [2013-07-29T14:06:48.062114 #17008]  INFO -- : answer is entered
+I, [2013-07-29T14:06:48.207982 #17008]  INFO -- : first_name is entered
+I, [2013-07-29T14:06:48.331353 #17008]  INFO -- : second_name  is entered
+I, [2013-07-29T14:06:48.464907 #17008]  INFO -- : day birthday is entered
+I, [2013-07-29T14:06:48.727341 #17008]  INFO -- : month birthday is entered
+I, [2013-07-29T14:06:48.856210 #17008]  INFO -- : year birthday is entered
+I, [2013-07-29T14:06:49.149019 #17008]  INFO -- : sex is select
+I, [2013-07-29T14:06:49.706120 #17008]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:06:49.955470 #17008]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:06:50.471764 #17008]  INFO -- : captcha id obtained: 298220663
+E, [2013-07-29T14:07:37.574285 #17121] ERROR -- : bad parameter: g
+E, [2013-07-29T14:07:44.593149 #17123] ERROR -- : bad parameter: g
+I, [2013-07-29T14:08:16.349072 #17127]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:08:31.577607 #17127]  INFO -- : username is free
+I, [2013-07-29T14:08:31.935697 #17127]  INFO -- : password is entered
+I, [2013-07-29T14:08:32.071854 #17127]  INFO -- : answer is entered
+I, [2013-07-29T14:08:32.210259 #17127]  INFO -- : first_name is entered
+I, [2013-07-29T14:08:32.368031 #17127]  INFO -- : second_name  is entered
+I, [2013-07-29T14:08:32.495946 #17127]  INFO -- : day birthday is entered
+I, [2013-07-29T14:08:32.765175 #17127]  INFO -- : month birthday is entered
+I, [2013-07-29T14:08:32.915012 #17127]  INFO -- : year birthday is entered
+I, [2013-07-29T14:08:33.188072 #17127]  INFO -- : sex is select
+I, [2013-07-29T14:08:33.758558 #17127]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:08:33.839190 #17127]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:08:34.360241 #17127]  INFO -- : captcha id obtained: 298225577
+I, [2013-07-29T14:09:27.149973 #17239]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:09:40.507546 #17239]  INFO -- : username is free
+I, [2013-07-29T14:09:40.879704 #17239]  INFO -- : password is entered
+I, [2013-07-29T14:09:41.021058 #17239]  INFO -- : answer is entered
+I, [2013-07-29T14:09:41.160831 #17239]  INFO -- : first_name is entered
+I, [2013-07-29T14:09:41.299920 #17239]  INFO -- : second_name  is entered
+I, [2013-07-29T14:09:41.449283 #17239]  INFO -- : day birthday is entered
+I, [2013-07-29T14:09:41.959603 #17239]  INFO -- : month birthday is entered
+I, [2013-07-29T14:09:42.104934 #17239]  INFO -- : year birthday is entered
+I, [2013-07-29T14:09:42.373062 #17239]  INFO -- : sex is select
+I, [2013-07-29T14:09:42.917209 #17239]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:09:42.995834 #17239]  INFO -- : captcha save in ./captcha.jpg
+W, [2013-07-29T14:09:43.503543 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:44.010186 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:44.515159 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:45.025630 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:45.531601 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:46.036783 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:46.545824 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:47.048217 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:47.552973 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:48.055760 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:48.560825 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:49.080673 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:49.591354 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:50.115982 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:50.622091 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:51.125996 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:51.636798 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:52.152440 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:52.664488 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:53.173607 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:53.685673 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:54.211803 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:54.723812 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:55.234734 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:55.740439 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:56.277386 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:56.780572 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:57.288695 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:57.792474 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:58.300693 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:58.805213 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:59.309825 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:09:59.816424 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:00.326138 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:00.834822 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:01.343553 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:01.848691 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:02.359990 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:02.875354 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:03.387368 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:03.891444 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+W, [2013-07-29T14:10:04.413480 #17239]  WARN -- : id: OR_NO_SLOT_AVAILABLE
+I, [2013-07-29T14:10:04.919091 #17239]  INFO -- : captcha id obtained: 298230241
+I, [2013-07-29T14:10:15.413810 #17239]  INFO -- : captcha text obtained: 
+I, [2013-07-29T14:13:30.076480 #17351]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:13:40.455759 #17351]  INFO -- : username is free
+I, [2013-07-29T14:13:40.867801 #17351]  INFO -- : password is entered
+I, [2013-07-29T14:13:41.018390 #17351]  INFO -- : answer is entered
+I, [2013-07-29T14:13:41.165588 #17351]  INFO -- : first_name is entered
+I, [2013-07-29T14:13:41.279463 #17351]  INFO -- : second_name  is entered
+I, [2013-07-29T14:13:41.410118 #17351]  INFO -- : day birthday is entered
+I, [2013-07-29T14:13:41.671237 #17351]  INFO -- : month birthday is entered
+I, [2013-07-29T14:13:41.787780 #17351]  INFO -- : year birthday is entered
+I, [2013-07-29T14:13:42.062770 #17351]  INFO -- : sex is select
+I, [2013-07-29T14:13:42.599164 #17351]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:13:42.680617 #17351]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:13:44.881180 #17351]  INFO -- : captcha id obtained: 298241141
+W, [2013-07-29T14:13:55.375109 #17351]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:14:00.874676 #17351]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:14:06.375751 #17351]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:14:11.880322 #17351]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:14:17.381822 #17351]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:14:22.882524 #17351]  INFO -- : captcha text obtained: hjvfyc
+I, [2013-07-29T14:14:23.023529 #17351]  INFO -- : captcha text is entered
+E, [2013-07-29T14:14:24.403468 #17351] ERROR -- : bad captcha
+I, [2013-07-29T14:14:27.028269 #17351]  INFO -- : username is free
+I, [2013-07-29T14:14:27.316022 #17351]  INFO -- : password is entered
+I, [2013-07-29T14:14:27.436887 #17351]  INFO -- : answer is entered
+I, [2013-07-29T14:14:27.596704 #17351]  INFO -- : first_name is entered
+I, [2013-07-29T14:14:27.743555 #17351]  INFO -- : second_name  is entered
+I, [2013-07-29T14:14:27.851534 #17351]  INFO -- : day birthday is entered
+I, [2013-07-29T14:14:28.125300 #17351]  INFO -- : month birthday is entered
+I, [2013-07-29T14:14:28.259996 #17351]  INFO -- : year birthday is entered
+I, [2013-07-29T14:14:28.535096 #17351]  INFO -- : sex is select
+I, [2013-07-29T14:14:29.074943 #17351]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:14:29.134423 #17351]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:14:29.656445 #17351]  INFO -- : captcha id obtained: 298243188
+W, [2013-07-29T14:14:40.156122 #17351]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:14:45.655873 #17351]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:14:51.166776 #17351]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:14:56.662645 #17351]  INFO -- : captcha text obtained: ноготь
+I, [2013-07-29T14:14:56.809237 #17351]  INFO -- : captcha text is entered
+I, [2013-07-29T14:14:59.571460 #17351]  INFO -- : user is logged
+I, [2013-07-29T14:21:54.720256 #17535]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:22:05.996307 #17535]  INFO -- : username is free
+I, [2013-07-29T14:22:06.421229 #17535]  INFO -- : password is entered
+I, [2013-07-29T14:22:06.577653 #17535]  INFO -- : answer is entered
+I, [2013-07-29T14:22:06.748548 #17535]  INFO -- : first_name is entered
+I, [2013-07-29T14:22:06.894740 #17535]  INFO -- : second_name  is entered
+I, [2013-07-29T14:22:07.017893 #17535]  INFO -- : day birthday is entered
+I, [2013-07-29T14:22:07.297273 #17535]  INFO -- : month birthday is entered
+I, [2013-07-29T14:22:07.490275 #17535]  INFO -- : year birthday is entered
+I, [2013-07-29T14:22:07.788624 #17535]  INFO -- : sex is select
+I, [2013-07-29T14:22:08.359646 #17535]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:22:08.437216 #17535]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:22:08.948005 #17535]  INFO -- : captcha id obtained: 298264223
+W, [2013-07-29T14:22:19.443930 #17535]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:22:24.952395 #17535]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:22:30.456404 #17535]  INFO -- : captcha text obtained: налог
+I, [2013-07-29T14:22:30.601107 #17535]  INFO -- : captcha text is entered
+I, [2013-07-29T14:22:35.814224 #17535]  INFO -- : user is logged
+I, [2013-07-29T14:25:37.101644 #17652]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:25:47.167494 #17652]  INFO -- : username is free
+I, [2013-07-29T14:25:47.571827 #17652]  INFO -- : password is entered
+I, [2013-07-29T14:25:47.725688 #17652]  INFO -- : answer is entered
+I, [2013-07-29T14:25:47.879632 #17652]  INFO -- : first_name is entered
+I, [2013-07-29T14:25:48.001850 #17652]  INFO -- : second_name  is entered
+I, [2013-07-29T14:25:48.150168 #17652]  INFO -- : day birthday is entered
+I, [2013-07-29T14:25:48.431866 #17652]  INFO -- : month birthday is entered
+I, [2013-07-29T14:25:48.572347 #17652]  INFO -- : year birthday is entered
+I, [2013-07-29T14:25:48.850356 #17652]  INFO -- : sex is select
+I, [2013-07-29T14:25:49.417392 #17652]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:25:49.497457 #17652]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:25:50.014450 #17652]  INFO -- : captcha id obtained: 298274912
+W, [2013-07-29T14:26:00.516344 #17652]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:26:06.019754 #17652]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:26:11.519535 #17652]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:26:17.019902 #17652]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:26:22.522134 #17652]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:26:28.024048 #17652]  INFO -- : captcha text obtained: норка
+I, [2013-07-29T14:26:28.175528 #17652]  INFO -- : captcha text is entered
+I, [2013-07-29T14:26:31.189163 #17652]  INFO -- : user is logged
+I, [2013-07-29T14:29:58.317342 #17759]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:30:38.753589 #17848]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:31:17.066664 #17951]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:32:35.949446 #18058]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:32:45.566409 #18061]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:34:29.574398 #18073]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:35:01.456010 #18162]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:35:28.703552 #18266]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:35:59.624344 #18369]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:36:20.919947 #18469]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:37:42.331146 #18582]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:37:52.480305 #18582]  INFO -- : username is free
+I, [2013-07-29T14:37:52.860216 #18582]  INFO -- : password is entered
+I, [2013-07-29T14:37:53.018093 #18582]  INFO -- : answer is entered
+I, [2013-07-29T14:37:53.173630 #18582]  INFO -- : first_name is entered
+I, [2013-07-29T14:37:53.314046 #18582]  INFO -- : second_name  is entered
+I, [2013-07-29T14:37:53.437437 #18582]  INFO -- : day birthday is entered
+I, [2013-07-29T14:37:53.701234 #18582]  INFO -- : month birthday is entered
+I, [2013-07-29T14:37:53.840449 #18582]  INFO -- : year birthday is entered
+I, [2013-07-29T14:37:54.142054 #18582]  INFO -- : sex is select
+I, [2013-07-29T14:37:54.728403 #18582]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:37:54.812387 #18582]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:37:55.343336 #18582]  INFO -- : captcha id obtained: 298310080
+W, [2013-07-29T14:38:05.839872 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:11.343731 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:16.853181 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:22.352685 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:27.852690 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:33.359130 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:38.864340 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:44.374380 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:49.868940 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:38:55.373770 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:00.876737 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:06.386288 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:11.886774 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:17.387154 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:22.885686 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:28.392218 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:33.891108 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:39.387569 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:44.887300 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:39:55.401089 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:40:00.897471 #18582]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:40:06.398272 #18582]  INFO -- : captcha text obtained: OR_CAPTCHA_UNSOLVABLE
+I, [2013-07-29T14:40:06.565834 #18582]  INFO -- : captcha text is entered
+E, [2013-07-29T14:40:08.028694 #18582] ERROR -- : bad captcha
+I, [2013-07-29T14:40:15.004218 #18582]  INFO -- : username is free
+I, [2013-07-29T14:40:15.338907 #18582]  INFO -- : password is entered
+I, [2013-07-29T14:40:15.482994 #18582]  INFO -- : answer is entered
+I, [2013-07-29T14:40:15.637158 #18582]  INFO -- : first_name is entered
+I, [2013-07-29T14:40:15.784340 #18582]  INFO -- : second_name  is entered
+I, [2013-07-29T14:40:15.906604 #18582]  INFO -- : day birthday is entered
+I, [2013-07-29T14:40:16.215772 #18582]  INFO -- : month birthday is entered
+I, [2013-07-29T14:40:16.426633 #18582]  INFO -- : year birthday is entered
+I, [2013-07-29T14:40:16.745817 #18582]  INFO -- : sex is select
+I, [2013-07-29T14:40:17.329955 #18582]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:40:17.395538 #18582]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:40:17.920861 #18582]  INFO -- : captcha id obtained: 298317283
+W, [2013-07-29T14:40:28.417769 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:40:33.922764 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:40:39.425003 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:40:44.928192 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:40:50.425524 #18582]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:40:55.929963 #18582]  INFO -- : captcha text obtained: OR_CAPTCHA_UNSOLVABLE
+I, [2013-07-29T14:40:56.119739 #18582]  INFO -- : captcha text is entered
+E, [2013-07-29T14:40:57.548525 #18582] ERROR -- : bad captcha
+I, [2013-07-29T14:41:04.665220 #18582]  INFO -- : username is free
+I, [2013-07-29T14:41:04.949291 #18582]  INFO -- : password is entered
+I, [2013-07-29T14:41:05.139709 #18582]  INFO -- : answer is entered
+I, [2013-07-29T14:41:05.318441 #18582]  INFO -- : first_name is entered
+I, [2013-07-29T14:41:05.462982 #18582]  INFO -- : second_name  is entered
+I, [2013-07-29T14:41:05.598931 #18582]  INFO -- : day birthday is entered
+I, [2013-07-29T14:41:06.009453 #18582]  INFO -- : month birthday is entered
+I, [2013-07-29T14:41:06.164611 #18582]  INFO -- : year birthday is entered
+I, [2013-07-29T14:41:06.466497 #18582]  INFO -- : sex is select
+I, [2013-07-29T14:41:07.038158 #18582]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:41:07.106221 #18582]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:41:07.635508 #18582]  INFO -- : captcha id obtained: 298319897
+W, [2013-07-29T14:41:18.134736 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:41:23.630424 #18582]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:41:32.133122 #18582]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:42:55.755483 #18701]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:43:17.294281 #18718]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:43:56.813006 #18733]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:44:20.937519 #18748]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:44:40.520922 #18762]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:45:07.019359 #18774]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:45:19.499259 #18781]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:45:34.116546 #18787]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:46:01.531382 #18796]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:46:13.699621 #18796]  INFO -- : username is free
+I, [2013-07-29T14:46:14.192164 #18796]  INFO -- : password is entered
+I, [2013-07-29T14:46:14.344100 #18796]  INFO -- : answer is entered
+I, [2013-07-29T14:46:14.536778 #18796]  INFO -- : first_name is entered
+I, [2013-07-29T14:46:14.697054 #18796]  INFO -- : second_name  is entered
+I, [2013-07-29T14:46:14.827656 #18796]  INFO -- : day birthday is entered
+I, [2013-07-29T14:46:15.124213 #18796]  INFO -- : month birthday is entered
+I, [2013-07-29T14:46:15.260218 #18796]  INFO -- : year birthday is entered
+I, [2013-07-29T14:46:15.571871 #18796]  INFO -- : sex is select
+I, [2013-07-29T14:46:16.400055 #18796]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:46:16.484799 #18796]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:46:18.851147 #18796]  INFO -- : captcha id obtained: 298336039
+W, [2013-07-29T14:46:29.351889 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:46:34.856156 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:46:40.350237 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:46:45.852810 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:46:51.354403 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:46:56.857726 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:47:02.355763 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:47:07.855336 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:47:13.351133 #18796]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:47:18.857882 #18796]  INFO -- : captcha text obtained: кукла
+I, [2013-07-29T14:47:19.002019 #18796]  INFO -- : captcha text is entered
+I, [2013-07-29T14:47:22.883117 #18796]  INFO -- : user is logged
+I, [2013-07-29T14:47:28.348068 #18796]  INFO -- : username is free
+I, [2013-07-29T14:47:28.615826 #18796]  INFO -- : password is entered
+I, [2013-07-29T14:47:28.761418 #18796]  INFO -- : answer is entered
+I, [2013-07-29T14:47:28.900727 #18796]  INFO -- : first_name is entered
+I, [2013-07-29T14:47:29.030581 #18796]  INFO -- : second_name  is entered
+I, [2013-07-29T14:47:29.186514 #18796]  INFO -- : day birthday is entered
+I, [2013-07-29T14:47:29.494433 #18796]  INFO -- : month birthday is entered
+I, [2013-07-29T14:47:29.617703 #18796]  INFO -- : year birthday is entered
+I, [2013-07-29T14:47:29.902004 #18796]  INFO -- : sex is select
+I, [2013-07-29T14:47:30.503707 #18796]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:47:30.562820 #18796]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:47:31.069630 #18796]  INFO -- : captcha id obtained: 298339808
+W, [2013-07-29T14:47:41.572571 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:47:47.072577 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:47:52.572761 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:47:58.076195 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:03.579987 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:09.077416 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:14.573613 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:20.077771 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:25.573313 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:31.071759 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:36.571642 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:42.065832 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:47.561786 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:53.060453 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:48:58.560322 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:04.188547 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:09.692990 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:15.187592 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:20.684398 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:26.183927 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:31.692382 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:37.191629 #18796]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:49:42.690078 #18796]  WARN -- : not_result_captcha: 
+I, [2013-07-29T14:49:51.803727 #18928]  INFO -- : run with parameter: 2
+I, [2013-07-29T14:50:00.871737 #18928]  INFO -- : username is free
+I, [2013-07-29T14:50:01.265436 #18928]  INFO -- : password is entered
+I, [2013-07-29T14:50:01.409669 #18928]  INFO -- : answer is entered
+I, [2013-07-29T14:50:01.584512 #18928]  INFO -- : first_name is entered
+I, [2013-07-29T14:50:01.698357 #18928]  INFO -- : second_name  is entered
+I, [2013-07-29T14:50:01.826575 #18928]  INFO -- : day birthday is entered
+I, [2013-07-29T14:50:02.083385 #18928]  INFO -- : month birthday is entered
+I, [2013-07-29T14:50:02.213865 #18928]  INFO -- : year birthday is entered
+I, [2013-07-29T14:50:02.485564 #18928]  INFO -- : sex is select
+I, [2013-07-29T14:50:03.024741 #18928]  INFO -- : screenshot save in ./screenshot.jpg
+I, [2013-07-29T14:50:03.105501 #18928]  INFO -- : captcha save in ./captcha.jpg
+I, [2013-07-29T14:50:03.607110 #18928]  INFO -- : captcha id obtained: 298347677
+W, [2013-07-29T14:50:14.110577 #18928]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:50:19.605969 #18928]  WARN -- : not_result_captcha: 
+W, [2013-07-29T14:50:25.100772 #18928]  WARN -- : not_result_captcha: 
